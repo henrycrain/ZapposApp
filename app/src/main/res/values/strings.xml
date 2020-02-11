@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ILoveZappos</string>
+
+    <string name="tab_text_1">Transaction History</string>
+    <string name="tab_text_2">Order Book</string>
+
+    <string name="dialog_title">Price Alert</string>
+    <string name="dialog_btn_set">Set</string>
+    <string name="dialog_btn_cancel">Cancel</string>
+    <string name="dialog_hint_price">Price</string>
+</resources>
